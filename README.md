@@ -105,3 +105,9 @@ git apply --ignore-whitespace ..\patches\technitium-dns-zh.patch
 - 本汉化补丁同样按 GPLv3 分发，见 `LICENSE`
 - 应用商店应用名称和简介的英文原文归各应用作者所有；这里只提供中文翻译
 - 本仓库与 Technitium Software 无隶属关系
+
+## 治理文档
+
+- 安装 / 卸载 / 回滚 / 版本兼容 / 校验和：[`docs/release-and-rollback.md`](docs/release-and-rollback.md)
+- 发布前检查清单：[`docs/release-checklist.md`](docs/release-checklist.md)
+- 变更记录：[`CHANGELOG.md`](CHANGELOG.md)

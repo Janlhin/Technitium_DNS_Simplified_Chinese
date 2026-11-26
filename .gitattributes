@@ -1,0 +1,4 @@
+# 发布件按字节保真：不做行尾转换，保证 SHA256SUMS.txt 在 Windows / Linux 检出下哈希一致
+dist/*.zip -text
+tray/*.dll -text
+webui/js/*.js -text
